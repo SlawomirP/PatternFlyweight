@@ -21,18 +21,6 @@ public class ChessPiece {
         }
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public String getNumberPosition() {
-        return numberPosition;
-    }
-
-    public String getLetterPosition() {
-        return letterPosition;
-    }
-
     public Color getColor() {
         return color;
     }

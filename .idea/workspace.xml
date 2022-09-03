@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19d6f58c-1ab2-4a82-9e8f-038950605fd7" name="Changes" comment="flyweight exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlyweightPattern/BlackPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlyweightPattern/BlackQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlyweightPattern/ChessPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlyweightPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlyweightPattern/WhitePiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlyweightPattern/WhiteQueen.java" afterDir="false" />
+    <list default="true" id="19d6f58c-1ab2-4a82-9e8f-038950605fd7" name="Changes" comment="flyweight finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FlyweightPattern/ColorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlyweightPattern/ColorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FlyweightPattern/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlyweightPattern/ChessPiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FlyweightPattern/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlyweightPattern/Color.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662146739567</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="flyweight finish">
+      <created>1662194964933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662194964933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flyweight exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="flyweight exercise" />
+    <MESSAGE value="flyweight finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="flyweight finish" />
   </component>
 </project>
